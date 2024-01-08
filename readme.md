@@ -14,6 +14,9 @@ Pour ce tutoriel, nous avons utilisé le matériel suivant :
     * 32GB DDR4 
     * 1TB SSD
 
+J'ai acheté les 3 PCs sur le site de [Geekbuying](https://www.geekbuying.com/item/T-bao-MN58U-Mini-PC-5800U-32GB-DDR4-1TB-SSD-EU-520707.html)
+
+
 * Réseau local
 
     * lab1.local (10.0.0.124)
