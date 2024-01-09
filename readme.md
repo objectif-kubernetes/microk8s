@@ -186,6 +186,17 @@ On obtient le résultat suivant :
 
 Qui montre que le service traefik est bien installé et fonctionnel.
 
+### Gestion des volumes
+
+microk8s est livré avec un addon qui permet de gérer les volumes. Cependant ce volume n'est pas fait pour la production. Il est destiné à être utilisé pour des tests uniquement. 
+Si vous souhaitez utiliser un volume pour la production, vous devez utiliser [rook-ceph](https://microk8s.io/docs/addon-rook-ceph) par exemple.
+
+```bash
+microk8s enable hostpath-storage
+```
+
+
+
 ## Import de kubeconfig
 
 Pour pouvoir utiliser kubectl sur votre machine, vous devez importer le fichier kubeconfig.
