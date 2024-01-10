@@ -354,8 +354,8 @@ Nous avons vu comment installer un cluster Kubernetes avec microk8s. Nous avons 
 
 # Liens
 
-* https://www.youtube.com/watch?v=s8R_q60pZkU
-* https://microk8s.io
+* [Vidéo Youtube](https://www.youtube.com/watch?v=s8R_q60pZkU)
+* [Site microk8s](https://microk8s.io)
 
 
 
